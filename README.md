@@ -3,7 +3,7 @@
 <br/>
 💡
 <br/>
-Olá! Sou Fernando de Jesus, profissional com formação técnica em Mecânica Industrial e Ciências Contábeis, atualmente graduando em Engenharia de Software. Tenho ampla experiência em coordenação de projetos multidisciplinares, PMO, logística, Suprimentos, Custo, Financeiro, planejamento em cascata, híbrido, Kanban e Scrum, liderei equipes com pico de 130 colaboradores.
+Olá! Sou Fernando de Jesus, profissional com formação técnica em Mecânica Industrial e Ciências Contábeis, atualmente graduando em Engenharia de Software. Tenho experiência em coordenação de projetos multidisciplinares, PMO, logística, Suprimentos, Custo, Financeiro, planejamento em cascata, híbrido, Kanban e Scrum(Não tenho muita experiências na pratica), liderei equipes com pico de 130 colaboradores.
 
 Ao longo da minha carreira, desenvolvi e gerenciei projetos utilizando ferramentas como Excel, Microsoft Project, Project Online e Power BI. 
 
